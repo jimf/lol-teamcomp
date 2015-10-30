@@ -1,0 +1,338 @@
+{
+  "champions": [
+    {
+      "name": "Alistar",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["tank", "engage", "disengage", "sustain", "cc", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Annie",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["burst", "engage", "cc", "bully"]
+        }
+      }
+    },
+    {
+      "name": "Bard",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["sustain", "cc"]
+        }
+      }
+    },
+    {
+      "name": "Blitzcrank",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["cc", "disruption", "peel", "bully"]
+        }
+      }
+    },
+    {
+      "name": "Brand",
+      "roles": {
+        "support": {
+          "tags": ["burst", "cc", "bully"]
+        }
+      }
+    },
+    {
+      "name": "Braum",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["tank", "engage", "disengage", "cc", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Fiddlesticks",
+      "roles": {
+        "support": {
+          "tags": ["cc", "poke"]
+        }
+      }
+    },
+    {
+      "name": "Galio",
+      "roles": {
+        "support": {
+          "tags": ["tank", "engage", "poke"]
+        }
+      }
+    },
+    {
+      "name": "Gragas",
+      "roles": {
+        "support": {
+          "tags": ["cc", "disruption", "disengage", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Janna",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["disengage", "sustain", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Jarvan IV",
+      "roles": {
+        "support": {
+          "tags": ["cc", "engage", "tank"]
+        }
+      }
+    },
+    {
+      "name": "Karma",
+      "roles": {
+        "support": {
+          "primary": true,
+          "tags": ["poke", "disengage", "engage", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Kayle",
+      "roles": {
+        "support": {
+          "tags": ["sustain"]
+        }
+      }
+    },
+    {
+      "name": "Kennen",
+      "roles": {
+        "support": {
+          "meta": true,
+          "tags": ["engage", "cc"]
+        }
+      }
+    },
+    {
+      "name": "LeBlanc",
+      "roles": {
+        "support": {
+          "tags": ["burst", "poke"]
+        }
+      }
+    },
+    {
+      "name": "Leona",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["tank", "engage", "disengage", "cc", "bully"]
+        }
+      }
+    },
+    {
+      "name": "Lulu",
+      "roles": {
+        "support": {
+          "meta": true,
+          "tags": ["disengage", "cc", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Lux",
+      "roles": {
+        "support": {
+          "tags": ["burst", "poke", "cc"]
+        }
+      }
+    },
+    {
+      "name": "Malphite",
+      "roles": {
+        "support": {
+          "tags": ["engage", "tank"]
+        }
+      }
+    },
+    {
+      "name": "Maokai",
+      "roles": {
+        "support": {
+          "tags": ["engage", "tank", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Morgana",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["engage", "disengage", "cc", "peel"]
+        }
+      }
+    },
+    {
+      "name": "Nami",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["disengage", "peel", "cc", "sustain"]
+        }
+      }
+    },
+    {
+      "name": "Nautilus",
+      "roles": {
+        "support": {
+          "primary": true,
+          "tags": ["tank", "cc", "engage", "disengage"]
+        }
+      }
+    },
+    {
+      "name": "Nidalee",
+      "roles": {
+        "support": {
+          "tags": ["poke", "sustain"]
+        }
+      }
+    },
+    {
+      "name": "Nunu",
+      "roles": {
+        "support": {
+          "tags": ["peel", "buff"]
+        }
+      }
+    },
+    {
+      "name": "Orianna",
+      "roles": {
+        "support": {
+          "tags": ["poke", "disruption", "disengage"]
+        }
+      }
+    },
+    {
+      "name": "Shen",
+      "roles": {
+        "support": {
+          "tags": ["tank", "sustain", "peel", "engage"]
+        }
+      }
+    },
+    {
+      "name": "Sona",
+      "roles": {
+        "support": {
+          "primary": true,
+          "tags": ["poke", "sustain", "engage"]
+        }
+      }
+    },
+    {
+      "name": "Soraka",
+      "roles": {
+        "support": {
+          "primary": true,
+          "tags": ["sustain"]
+        }
+      }
+    },
+    {
+      "name": "Tahm Kench",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["cc", "tank"]
+        }
+      }
+    },
+    {
+      "name": "Taric",
+      "roles": {
+        "support": {
+          "primary": true,
+          "tags": ["tank", "buff", "sustain"]
+        }
+      }
+    },
+    {
+      "name": "Thresh",
+      "roles": {
+        "support": {
+          "primary": true,
+          "meta": true,
+          "tags": ["tank", "engage", "disengage", "bully", "cc"]
+        }
+      }
+    },
+    {
+      "name": "Veigar",
+      "roles": {
+        "support": {
+          "tags": ["cc", "disengage", "zone"]
+        }
+      }
+    },
+    {
+      "name": "Vel'Koz",
+      "roles": {
+        "support": {
+          "tags": ["poke"]
+        }
+      }
+    },
+    {
+      "name": "Volibear",
+      "roles": {
+        "support": {
+          "tags": ["engage", "tank"]
+        }
+      }
+    },
+    {
+      "name": "Yorick",
+      "roles": {
+        "support": {
+          "tags": ["tank", "poke"]
+        }
+      }
+    },
+    {
+      "name": "Zilean",
+      "roles": {
+        "support": {
+          "tags": ["disengage", "poke"]
+        }
+      }
+    },
+    {
+      "name": "Zyra",
+      "roles": {
+        "support": {
+          "primary": true,
+          "tags": ["support", "disengage", "poke", "zone"]
+        }
+      }
+    }
+  ]
+}
